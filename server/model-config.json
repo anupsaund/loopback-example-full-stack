@@ -3,7 +3,7 @@
     "sources": ["../common/models"]
   },
   "Todo": {
-    "dataSource": "db"
+    "dataSource": "mongodb"
   },
   "user": {
     "dataSource": "db"

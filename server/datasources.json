@@ -2,5 +2,9 @@
   "db": {
     "connector": "memory",
     "defaultForType": "db"
+  },
+  "mongodb":{
+	"connector":"MongoDB",
+	"host":"localhost"
   }
 }
